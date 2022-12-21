@@ -6,6 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class YouTubeApplication {
 
+	//salom
 	public static void main(String[] args) {
 		SpringApplication.run(YouTubeApplication.class, args);
 	}
